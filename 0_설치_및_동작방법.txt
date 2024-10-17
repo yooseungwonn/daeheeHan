@@ -1,0 +1,16 @@
+# 선행조건
+1. 내 윈도우 환경에 Python 3.11을 설치한다.(PyEnv 사용 추천)
+2. 터미널에서 python, pip 명령어가 동작하도록 환경변수를 지정해둔다.
+3. Node.js 설치한다.
+
+
+# 실행방법
+1. install bat파일을 순서대로 실행한다.
+2. save_in_pinecone을 실행시켜 문서를 저장한다.
+3. 5_run.bat파일로 fastapi, react서버를 실행시킨다.
+
+# 문서 변경 후 동작
+- 따로 namespace를 삭제할 필요 없이 동작함. (알아서 삭제 후 재생성됨)
+
+1. save_in_pinecone을 실행시켜 문서를 저장한다.
+2. 5_run.bat파일로 fastapi, react서버를 실행시킨다.
